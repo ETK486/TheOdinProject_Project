@@ -1,0 +1,19 @@
+.main{
+    border: 2px solid red;
+}
+.ma{
+    display: flex;
+    flex-direction: column;
+}
+#text{
+    justify-content: center;
+    padding: 200px;
+    margin: auto;
+}
+h2{
+    font-style: italic;
+}
+#h3{
+    font-style:oblique;
+    text-align: right;
+}
